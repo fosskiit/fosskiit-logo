@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 300 80" width="300" height="80">
+    <rect x="0" y="0" width="300" height="40" fill="#17d059"></rect>
+    <text x="5" y="25">#17d059 (KIIT Green)</text>
+    <rect x="0" y="40" width="300" height="40" fill="#0bda51"></rect>
+    <text x="5" y="65">#0bda51 (Malachite Green)</text>
+</svg>
